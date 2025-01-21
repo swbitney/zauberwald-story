@@ -1,0 +1,23 @@
+Raesfeld 		- [place name]
+Flughafen 		- Airport
+Berlin 			- [place name]
+Bratwurst 		- [type of food]
+Hauptstrasse 		- main street
+Brot 			- bread
+Klimaanlage 		- air conditioning
+Rammstein 		- [band name]
+Porsche			- [car name]
+BMW 			- [car name]
+Biergarten 		- beer garden ???
+Ratskeller 		- bar near city hall
+Dirndel 		- [type of clothing]
+Lederhose 		- [type of clothing]
+Schloss 		- Lock
+wettbewerbsfaehig 	- competitive
+Mehlhase 		- flour bunny ???
+Gebaeck			- pastries
+Baeckerei 		- Bakery
+Hund 			- Dog
+Doener 			- [type of food]
+Apfelkuchen 		- apple pie
+Eltz			- [place name]
